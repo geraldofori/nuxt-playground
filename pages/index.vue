@@ -1,3 +1,4 @@
+<script setup></script>
 <template>
   <div>
     <p class="text-3xl">This is nuxt</p>
@@ -5,6 +6,5 @@
   </div>
 </template>
 
-<script lang="ts" setup></script>
 
 <style></style>
