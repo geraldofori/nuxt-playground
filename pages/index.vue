@@ -1,8 +1,10 @@
-<script setup></script>
+<script setup>
+
+</script>
 <template>
   <div>
-    <p class="text-3xl">This is nuxt</p>
-    <Profile />
+    <ContentDoc/>
+    <slot/>
   </div>
 </template>
 

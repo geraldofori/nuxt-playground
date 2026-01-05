@@ -1,0 +1,192 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Bluetooth Headphones",
+        "category": "Electronics",
+        "price": 79.99,
+        "currency": "USD",
+        "brand": "AudioTech",
+        "inStock": true,
+        "quantity": 45,
+        "description": "Premium over-ear headphones with active noise cancellation and 30-hour battery life",
+        "rating": 4.5,
+        "reviews": 328,
+        "image": "https://example.com/images/headphones.jpg",
+        "tags": [
+            "wireless",
+            "bluetooth",
+            "noise-cancelling"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Organic Green Tea",
+        "category": "Food & Beverages",
+        "price": 12.49,
+        "currency": "USD",
+        "brand": "Pure Leaf",
+        "inStock": true,
+        "quantity": 156,
+        "description": "100% organic loose leaf green tea, 100g package",
+        "rating": 4.8,
+        "reviews": 892,
+        "image": "https://example.com/images/green-tea.jpg",
+        "tags": [
+            "organic",
+            "tea",
+            "healthy"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Leather Laptop Bag",
+        "category": "Accessories",
+        "price": 89.99,
+        "currency": "USD",
+        "brand": "UrbanStyle",
+        "inStock": true,
+        "quantity": 23,
+        "description": "Genuine leather messenger bag fits up to 15-inch laptops",
+        "rating": 4.6,
+        "reviews": 154,
+        "image": "https://example.com/images/laptop-bag.jpg",
+        "tags": [
+            "leather",
+            "bag",
+            "professional"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Smart Fitness Watch",
+        "category": "Electronics",
+        "price": 199.99,
+        "currency": "USD",
+        "brand": "FitTrack",
+        "inStock": false,
+        "quantity": 0,
+        "description": "GPS-enabled smartwatch with heart rate monitor and sleep tracking",
+        "rating": 4.3,
+        "reviews": 567,
+        "image": "https://example.com/images/smartwatch.jpg",
+        "tags": [
+            "smartwatch",
+            "fitness",
+            "gps"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Yoga Mat Premium",
+        "category": "Sports & Fitness",
+        "price": 34.99,
+        "currency": "USD",
+        "brand": "ZenFit",
+        "inStock": true,
+        "quantity": 78,
+        "description": "Non-slip TPE yoga mat, 6mm thick with carrying strap",
+        "rating": 4.7,
+        "reviews": 423,
+        "image": "https://example.com/images/yoga-mat.jpg",
+        "tags": [
+            "yoga",
+            "exercise",
+            "eco-friendly"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Stainless Steel Water Bottle",
+        "category": "Home & Kitchen",
+        "price": 24.99,
+        "currency": "USD",
+        "brand": "HydroFlow",
+        "inStock": true,
+        "quantity": 234,
+        "description": "Insulated water bottle keeps drinks cold for 24 hours, 32oz capacity",
+        "rating": 4.9,
+        "reviews": 1247,
+        "image": "https://example.com/images/water-bottle.jpg",
+        "tags": [
+            "reusable",
+            "insulated",
+            "eco-friendly"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Mechanical Gaming Keyboard",
+        "category": "Electronics",
+        "price": 129.99,
+        "currency": "USD",
+        "brand": "GameMaster",
+        "inStock": true,
+        "quantity": 67,
+        "description": "RGB backlit mechanical keyboard with blue switches and programmable keys",
+        "rating": 4.4,
+        "reviews": 789,
+        "image": "https://example.com/images/keyboard.jpg",
+        "tags": [
+            "gaming",
+            "mechanical",
+            "rgb"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Essential Oil Diffuser",
+        "category": "Home & Garden",
+        "price": 39.99,
+        "currency": "USD",
+        "brand": "AromaLife",
+        "inStock": true,
+        "quantity": 112,
+        "description": "Ultrasonic aromatherapy diffuser with 7 LED color options",
+        "rating": 4.6,
+        "reviews": 634,
+        "image": "https://example.com/images/diffuser.jpg",
+        "tags": [
+            "aromatherapy",
+            "wellness",
+            "home-decor"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Running Shoes - Trail Edition",
+        "category": "Footwear",
+        "price": 119.99,
+        "currency": "USD",
+        "brand": "SpeedRun",
+        "inStock": true,
+        "quantity": 34,
+        "description": "Waterproof trail running shoes with enhanced grip and cushioning",
+        "rating": 4.5,
+        "reviews": 456,
+        "image": "https://example.com/images/running-shoes.jpg",
+        "tags": [
+            "shoes",
+            "running",
+            "outdoor"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Portable Phone Charger",
+        "category": "Electronics",
+        "price": 29.99,
+        "currency": "USD",
+        "brand": "PowerBank Pro",
+        "inStock": true,
+        "quantity": 189,
+        "description": "20000mAh power bank with fast charging and dual USB ports",
+        "rating": 4.7,
+        "reviews": 921,
+        "image": "https://example.com/images/power-bank.jpg",
+        "tags": [
+            "portable",
+            "charger",
+            "fast-charging"
+        ]
+    }
+]
